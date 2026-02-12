@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-aero: #2CC0DF;
+  --color-blue-munsell: #0096b1;
+  --color-oxford-blue: #001D4A;
+  --color-sunglow: #FFCB47;
+  --color-madder: #A20021;
+  
+  --font-family-sans: "Comic Neue", sans-serif;
+  
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1920px;
+  --breakpoint-2xl: 2560px;
+}
+
+body {
+  font-family: "Comic Neue", sans-serif;
+}
